@@ -1,0 +1,16 @@
+:root {
+    /* font sizes */
+    --v-s-f: 18px;
+    --s-f: 20px;
+    --md-f: 24px;
+    --l-f: 36px;
+    --xl-f: 48px;
+    /* colors */
+    --t-red: red;
+    --bg-yellow: #F6E300;
+    --bg-lyellow: #FFF03F;
+    --f-black:  #000000;
+    --f-red:#F4241E;
+    --f-white:#FFFFFF;
+    --bg-white:#FFFFFF;
+}
